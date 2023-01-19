@@ -1,3 +1,4 @@
 .idea/
 go.sum
 sas-lambda.iml
+.aws-sam
